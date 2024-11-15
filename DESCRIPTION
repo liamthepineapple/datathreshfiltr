@@ -2,7 +2,7 @@ Package: datathreshfiltr
 Title: A package for filtering CE-MS metabolomics peak area data 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Liam", "Surry", , "surryl@mcmaster.ca", role = c("aut"),
+    person(given = "Liam", family = "Surry", email = "surryl@mcmaster.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: CC BY 4.0
@@ -14,3 +14,6 @@ Depends:
 LazyData: true
 URL: https://github.com/liamthepineapple/datathreshfiltr
 BugReports: https://github.com/liamthepineapple/datathreshfiltr/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

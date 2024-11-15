@@ -16,12 +16,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: 
-
-Authors:
-\itemize{
-  \item Liam Surry \email{surryl@mcmaster.ca} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
-}
+\strong{Maintainer}: Liam Surry \email{surryl@mcmaster.ca} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
 }
 \keyword{internal}
