@@ -3,12 +3,25 @@
 \docType{package}
 \name{datathreshfiltr-package}
 \alias{datathreshfiltr-package}
-\title{datathreshfiltr: What the Package Does (One Line, Title Case)}
+\title{datathreshfiltr: A package for filtering CE-MS metabolomics peak area data}
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/liamthepineapple/datathreshfiltr}
+  \item Report bugs at \url{https://github.com/liamthepineapple/datathreshfiltr/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: 
+
+Authors:
+\itemize{
+  \item Liam Surry \email{surryl@mcmaster.ca} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+}
 
 }
 \keyword{internal}

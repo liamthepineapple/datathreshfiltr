@@ -27,3 +27,27 @@ datathreshfiltr <- function(file_name, threshold) {
   })
   return(data)
 }
+
+
+#'@docType PACKAGE
+#'@name datathreshfiltr
+#'@author Liam Surry, Department of Chemistry and Chemical Biology
+#'@references \url{https://github.com/liamthepineapple/datathreshfiltr.git}
+NULL
+
+#'Peak area data from CE-MS metabolomics data
+#'
+#'A dataset containing peak area data from metabolomic drugs of abuse screening after being automatically preprocessed by PeakMeister.
+#'
+#'@format A dataframe consiting of 482 rows and 82 columns
+#'\describe {
+#'  \item{file.name}{name of sample file as numeric}
+#'  \item{peak.number}{peak number position in sample run between 1-13 as numeric}
+#'  \item{metabolite}{metabolites listed by individual mass as character}
+#'  }
+#'
+#'@docType data
+#'@keywords datasets
+#'@name metabolite_peak_areas
+#'@source Liam Surry and Zachery Krozen, Britz-Mckibbin laboratory, McMaster University, Department of Chemistry and Chemical Biology
+"metabolite_peak_areas"

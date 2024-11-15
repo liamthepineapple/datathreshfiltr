@@ -1,8 +1,8 @@
 Package: datathreshfiltr
-Title: What the Package Does (One Line, Title Case)
+Title: A package for filtering CE-MS metabolomics peak area data 
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Liam", "Surry", , "surryl@mcmaster.ca", role = c("aut"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: CC BY 4.0
